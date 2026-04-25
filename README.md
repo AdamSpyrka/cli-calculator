@@ -46,6 +46,7 @@ cli-calculator/
 ├── main.py
 ├── calculator.py
 ├── README.md
+├── .gitignore
 ```
 ## How to run
 ````
