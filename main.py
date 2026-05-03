@@ -63,7 +63,8 @@ def main():
                 "4": "/"
             }
 
-            history.append(f"{first_number} {operation_map[choice]} {second_number} = {result}")dir
+            history.append(f"{first_number} {operation_map[choice]} {second_number} = {result}")
+            dir
 
         except ValueError as error:
             print(f"Error: {error}")
